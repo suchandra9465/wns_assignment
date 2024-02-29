@@ -17,7 +17,7 @@ def import_function_from_git(url, function_name):
 
     return function
 
-git_raw_url = 'https://raw.githubusercontent.com/suchandra9465/wns/master/git_call_api.py'
+git_raw_url = 'https://raw.githubusercontent.com/suchandra9465/wns_assignment/master/git_call_api.py'
 function_name = 'fetch_data_from_mapping'
 
 my_function = import_function_from_git(git_raw_url, function_name)
