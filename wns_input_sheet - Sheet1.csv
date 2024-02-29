@@ -1,0 +1,6 @@
+emp_id,domicile,limit,factor,premium,loss_cost
+1,india,152090,0.5,65000,50000
+2,srilanka,122000,0.34,75000,60000
+3,pakistan,187000,0.2,29000,140000
+4,bangladesh,290000,0.65,42000,27000
+5,usa,189999,0.39,68000,53000
